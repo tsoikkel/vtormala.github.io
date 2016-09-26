@@ -1,1 +1,0 @@
-# vtormala.github.io

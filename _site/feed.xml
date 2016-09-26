@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>villetormala.com</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 26 Sep 2016 22:50:30 +0300</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2016 22:50:30 +0300</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Sit down and think what features to remove</title>
+        <description>&lt;p&gt;Success of a software product is hugely dependent on ability to change and improve it during its lifetime. You want to minimize the time, effort and cost to further develop and improve your product starting from the first early release. This is usually obvious to everyone. But there are other aspects and not all of them are equally obvious.&lt;/p&gt;
+
+&lt;p&gt;There is a huge life-cycle cost and burden in software complexity. Simple, clean design and good engineering practices help alot. But there is one central point where things get serious: &lt;strong&gt;More software you add the more complexity you get.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to great engineering practices you need &lt;em&gt;a strict culture of adding only the absolutely necessary features and evaluate their value all the time&lt;/em&gt;. Like many of the things in software development this is nothing new. Just look at the mindset of the early Unix developers &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everything was small… and my heart sinks for Linux when I see the size of it. […] The manual page, which really used to be a manual page, is now a small volume, with a thousand options… &lt;strong&gt;We used to sit around in the Unix Room saying, ‘What can we throw out?&lt;/strong&gt; Why is there this option?’ It’s often because there is some deficiency in the basic design — you didn’t really hit the right design point. Instead of adding an option, think about what was forcing you to add that option.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Have you tried sitting down with your team to think what features to throw out? If you haven’t, do it right away!&lt;/p&gt;
+
+&lt;p&gt;All professionals would like to create simple and elegant solutions. But as a industry we follow a very different mindset than the people quoted above.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Our prevailing contracting models often dictate big upfront design with late big batch deliveries.&lt;/li&gt;
+  &lt;li&gt;Long delivery cycles make iterating on small valuable items impossible.&lt;/li&gt;
+  &lt;li&gt;Feature creep is incorporated deeply in “list all the requirements and get them right in the first place”.&lt;/li&gt;
+  &lt;li&gt;And with detailed plans made before the first phase-gate, all you need to manage is the 100% efficiency and follow the plans.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s a problem deep the mindset and habits of our industry.&lt;/p&gt;
+
+&lt;p&gt;But you, a software development professional, want to do better and optimize long-term benefits to keep productivity high and costs low. That includes explaining your customer that &lt;strong&gt;“we are going to deliver as little code and features as possible and that is for your benefit”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Bill McGonigle, &lt;a href=&quot;https://archive.org/details/DougMcIlroy_AncestryOfLinux_DLSLUG&quot;&gt;Ancestry of Linux - How the Fun Began.&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 26 Sep 2016 00:00:00 +0300</pubDate>
+        <link>/sit-down-and-think-what-features-to-remove</link>
+        <guid isPermaLink="true">/sit-down-and-think-what-features-to-remove</guid>
+        
+        
+        <category>software</category>
+        
+      </item>
+    
+  </channel>
+</rss>
