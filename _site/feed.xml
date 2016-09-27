@@ -5,15 +5,15 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Sep 2016 22:50:30 +0300</pubDate>
-    <lastBuildDate>Mon, 26 Sep 2016 22:50:30 +0300</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2016 20:23:01 +0300</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2016 20:23:01 +0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Sit down and think what features to remove</title>
-        <description>&lt;p&gt;Success of a software product is hugely dependent on ability to change and improve it during its lifetime. You want to minimize the time, effort and cost to further develop and improve your product starting from the first early release. This is usually obvious to everyone. But there are other aspects and not all of them are equally obvious.&lt;/p&gt;
+        <description>&lt;p&gt;Success of a software product is hugely dependent on ability to change and improve it during its lifetime. You want to minimize the time, effort and cost of changes starting from the first early release. This is obvious to everyone. But there are other aspects and not all of them are equally obvious.&lt;/p&gt;
 
-&lt;p&gt;There is a huge life-cycle cost and burden in software complexity. Simple, clean design and good engineering practices help alot. But there is one central point where things get serious: &lt;strong&gt;More software you add the more complexity you get.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is a huge life-cycle cost and burden in software complexity. Simple, clean design and good engineering practices help a lot. But there is one central point where things get serious: &lt;strong&gt;The more software you add the more complexity you get.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In addition to great engineering practices you need &lt;em&gt;a strict culture of adding only the absolutely necessary features and evaluate their value all the time&lt;/em&gt;. Like many of the things in software development this is nothing new. Just look at the mindset of the early Unix developers &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
 
@@ -21,9 +21,9 @@
   &lt;p&gt;Everything was small… and my heart sinks for Linux when I see the size of it. […] The manual page, which really used to be a manual page, is now a small volume, with a thousand options… &lt;strong&gt;We used to sit around in the Unix Room saying, ‘What can we throw out?&lt;/strong&gt; Why is there this option?’ It’s often because there is some deficiency in the basic design — you didn’t really hit the right design point. Instead of adding an option, think about what was forcing you to add that option.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Have you tried sitting down with your team to think what features to throw out? If you haven’t, do it right away!&lt;/p&gt;
+&lt;p&gt;Have you tried sitting down with your team (or your customer) to think what features to throw out? If you haven’t, do it right away!&lt;/p&gt;
 
-&lt;p&gt;All professionals would like to create simple and elegant solutions. But as a industry we follow a very different mindset than the people quoted above.&lt;/p&gt;
+&lt;p&gt;The reason why you don’t see this happening often is caused by a conflic between what we would like to do and what we do. All professionals would like to create simple and elegant solutions. But as an industry we follow a very different mindset than the people quoted above.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Our prevailing contracting models often dictate big upfront design with late big batch deliveries.&lt;/li&gt;
@@ -41,7 +41,7 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Bill McGonigle, &lt;a href=&quot;https://archive.org/details/DougMcIlroy_AncestryOfLinux_DLSLUG&quot;&gt;Ancestry of Linux - How the Fun Began.&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Bill McGonigle, &lt;a href=&quot;https://archive.org/details/DougMcIlroy_AncestryOfLinux_DLSLUG&quot;&gt;Ancestry of Linux - How the Fun Began.&lt;/a&gt;, quoted part starts at 1:03:40 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
