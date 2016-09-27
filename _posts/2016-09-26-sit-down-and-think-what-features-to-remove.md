@@ -23,14 +23,14 @@ In addition to great engineering practices you need *a strict culture of adding 
 
 Have you tried sitting down with your team (or your customer) to think what features to throw out? If you haven't, do it right away!
 
-The reason why you don't see this happening often is caused by a conflic between what we would like to do and what we do. All professionals would like to create simple and elegant solutions. But as an industry we follow a very different mindset than the people quoted above. 
+The reason why you don't see this happening often is caused by a conflic between what we would like to do and what we do instead. All professionals would like to create simple and elegant solutions. But as an industry we follow a very different mindset than the person quoted above. 
 
 * Our prevailing contracting models often dictate big upfront design with late big batch deliveries. 
 * Long delivery cycles make iterating on small valuable items impossible. 
 * Feature creep is incorporated deeply in "list all the requirements and get them right in the first place".
-* And with detailed plans made before the first phase-gate, all you need to manage is the 100% efficiency and follow the plans. 
+* And with detailed plans made before the first phase-gate, all you need to do is to manage 100% efficiency and follow the plans. 
 
-It's a problem deep the mindset and habits of our industry. 
+It's a problem deep in the mindset and habits of our industry. 
 
 But you, a software development professional, want to do better and optimize long-term benefits to keep productivity high and costs low. That includes explaining your customer that **"we are going to deliver as little code and features as possible and that is for your benefit".** 
 
