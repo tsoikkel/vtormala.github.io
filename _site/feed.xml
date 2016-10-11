@@ -5,9 +5,38 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Sep 2016 21:30:26 +0300</pubDate>
-    <lastBuildDate>Tue, 27 Sep 2016 21:30:26 +0300</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2016 15:49:02 +0300</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2016 15:49:02 +0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Getting rid of management meetings</title>
+        <description>&lt;p&gt;One of our recent improvement ideas is to reduce number of management meetings. Actually, we are not having that many of them, but we still want to have less. By management meetings I mean the events where, say, project manager and customer representative go to meeting room to discuss status and do some planning. Meeting minutes are often shared with rest of the team.&lt;/p&gt;
+
+&lt;p&gt;It’s a habit. Something we have used to. We justify their existence by saying that we save the precious time of developers doing the actual work.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lately I have been more and more starting to consider these meetings as an anti-pattern. My concern is the discrepancy on what we actually do and how we would like things to be. We want teams to take control and make decisions. From that perspective, having these type of meetings is incompatible with our cultural goals. They clearly demonstrate that the real power and influence is elsewhere and behind closed doors.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Again, no need to overreact. We are not banning any meetings. We just want to have less of them and include the whole team in all discussions.&lt;/p&gt;
+
+&lt;p&gt;Let’s have one example. Previously I used to collect customer &amp;lt;-&amp;gt; dev team feedback using a questionnaire. Feedback was then presented in the steering group meetings. But last time we sat down with the whole team and customer and had a feedback session face-to-face. Needless to say which of these methods was more productive. And yes, there is still a summary of the feedback in the steering group meetings.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To me this management meeting anti-pattern has been a blind spot. Perhaps mostly because it’s build into certain roles and role expectations. I like to think myself as a quite advanced what comes to teaming and team dynamics. Yet we still have had this kind of structural anti pattern around. I am sure there are also other similar patterns and habits that are left unnoticed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a healthy reminder to always question all the things we do. And also to analyze whether our current ways of working support the ideas and culture we want are aiming for.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Oct 2016 15:47:45 +0300</pubDate>
+        <link>/2016-10-11_getting-rid-of-management-meetings</link>
+        <guid isPermaLink="true">/2016-10-11_getting-rid-of-management-meetings</guid>
+        
+        
+        <category>Leadership</category>
+        
+      </item>
     
       <item>
         <title>Sit down and think what features to remove</title>
@@ -23,16 +52,16 @@
 
 &lt;p&gt;Have you tried sitting down with your team (or your customer) to think what features to throw out? If you haven’t, do it right away!&lt;/p&gt;
 
-&lt;p&gt;The reason why you don’t see this happening often is caused by a conflic between what we would like to do and what we do. All professionals would like to create simple and elegant solutions. But as an industry we follow a very different mindset than the people quoted above.&lt;/p&gt;
+&lt;p&gt;The reason why you don’t see this happening often is caused by a conflic between what we would like to do and what we do instead. All professionals would like to create simple and elegant solutions. But as an industry we follow a very different mindset than the person quoted above.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Our prevailing contracting models often dictate big upfront design with late big batch deliveries.&lt;/li&gt;
   &lt;li&gt;Long delivery cycles make iterating on small valuable items impossible.&lt;/li&gt;
   &lt;li&gt;Feature creep is incorporated deeply in “list all the requirements and get them right in the first place”.&lt;/li&gt;
-  &lt;li&gt;And with detailed plans made before the first phase-gate, all you need to manage is the 100% efficiency and follow the plans.&lt;/li&gt;
+  &lt;li&gt;And with detailed plans made before the first phase-gate, all you need to do is to manage 100% efficiency and follow the plans.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;It’s a problem deep the mindset and habits of our industry.&lt;/p&gt;
+&lt;p&gt;It’s a problem deep in the mindset and habits of our industry.&lt;/p&gt;
 
 &lt;p&gt;But you, a software development professional, want to do better and optimize long-term benefits to keep productivity high and costs low. That includes explaining your customer that &lt;strong&gt;“we are going to deliver as little code and features as possible and that is for your benefit”.&lt;/strong&gt;&lt;/p&gt;
 
