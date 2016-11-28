@@ -5,9 +5,83 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Oct 2016 09:37:59 +0300</pubDate>
-    <lastBuildDate>Tue, 18 Oct 2016 09:37:59 +0300</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2016 14:50:18 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 14:50:18 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>People do the minimum because you ask them to</title>
+        <description>&lt;p&gt;&lt;em&gt;Organizations and managers always hope more of their people than they know how to ask for. They want everyone to be more motivated, more self-organized and more accountable. Instead of interfering directly with employees, organization’s need to examine how they think and what kind of behavior prevailing structures promote.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One of my favorite question to development teams and their members is: “What is your goal?” “What are you aiming for?” Usually, people answer after few seconds of silence. There are exceptions but answer is almost every time along these lines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Working for customer”&lt;/li&gt;
+  &lt;li&gt;“Working for project”&lt;/li&gt;
+  &lt;li&gt;“Working for product foobar”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Clearly something is missing. People are working for something but they just can’t explain it in compelling way or in enough detail. To me that is a problem. But the problem is not in the people who provide such answers.&lt;/p&gt;
+
+&lt;p&gt;In “The New New Product Development Game” &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, the HBR Article where Ken Schwaber and Jeff Sutherland got their ideas for Scrum, Hirotaka Takeuchi and Ikujiro Nonaka describe the idea of self-organizing teams:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A project team takes on a self-organizing character as it is driven to a state of “zero information”—where prior knowledge does not apply. Ambiguity and fluctuation abound in this state. Left to stew, the process begins to create its own dynamic order. The project team begins to operate like a start-up company—it takes initiatives and risks, and develops an independent agenda. At some point, the team begins to create its own concept.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;How often do you see this happen?&lt;/p&gt;
+
+&lt;p&gt;Many organizations promote self-organization. But many times, most of the thinking and planning has been already done before work is handed out to teams. Too often teams are forced to use company processes and tools that don’t help them. And before the team gets started one team members is resourced to another project.&lt;/p&gt;
+
+&lt;p&gt;Separation of thinking and doing is still prevailing in the organizations’ structures and ways of working. For them, the primary question is not how to make teams more motivated, how to get people take more responsibility or how to get team members to work together. These are the end results of organizations structures, roles, rules etc.&lt;/p&gt;
+
+&lt;p&gt;Individuals and teams have more reason to feel motivated, accountable and to collaborate when they are handed a clear and compelling business problem. Prewritten tasks and vague themes where some else has done all the thinking equals to asking very little. People do little because organizations ask them to. Teams need something more strategic that they genuinely own and can self-organize around to.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Hirotaka Takeuchi &amp;amp; Ikujiro Nonaka, &lt;a href=&quot;https://hbr.org/1986/01/the-new-new-product-development-game&quot;&gt;The New New Product Development Game&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 28 Nov 2016 00:00:00 +0200</pubDate>
+        <link>/people-do-the-minimum-because-you-ask-them-to</link>
+        <guid isPermaLink="true">/people-do-the-minimum-because-you-ask-them-to</guid>
+        
+        
+        <category>leadership</category>
+        
+      </item>
+    
+      <item>
+        <title>Getting rid of management meetings</title>
+        <description>&lt;p&gt;One of our recent improvement ideas is to reduce number of management meetings. Actually, we are not having that many of them, but we still want to have less. By management meetings I mean the events where, say, project manager and customer representative go to meeting room to discuss status and do some planning. Meeting minutes are often shared with rest of the team.&lt;/p&gt;
+
+&lt;p&gt;It’s a habit. Something we have used to. We justify their existence by saying that we save the precious time of developers doing the actual work.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lately I have been more and more starting to consider these meetings as an anti-pattern. My concern is the discrepancy on what we actually do and how we would like things to be. We want teams to take control and make decisions. From that perspective, having these type of meetings is incompatible with our cultural goals. They clearly demonstrate that the real power and influence is elsewhere and behind closed doors.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Again, no need to overreact. We are not banning any meetings. We just want to have less magemenent by memo and include the whole team in all discussions.&lt;/p&gt;
+
+&lt;p&gt;Let’s have one example. Previously I used to collect customer &amp;lt;-&amp;gt; dev team feedback using a questionnaire. Feedback was then presented in the steering group meetings. But last time we sat down with the whole team and customer and had a feedback session face-to-face. Needless to say which of these methods was more productive. And yes, there is still a summary of the feedback in the steering group meetings.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To me this management meeting anti-pattern has been a blind spot. Perhaps mostly because it’s build into certain roles and role expectations. I like to think myself as a quite advanced what comes to teaming and team dynamics. Yet we still have had this kind of structural anti pattern around. I am sure there are also other similar patterns and habits that are left unnoticed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This was a healthy reminder to always question all the things we do. And also to analyze whether current ways of working support the ideas and culture we want to aim for.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Oct 2016 00:00:00 +0300</pubDate>
+        <link>/getting-rid-of-management-meetings</link>
+        <guid isPermaLink="true">/getting-rid-of-management-meetings</guid>
+        
+        
+        <category>Leadership</category>
+        
+      </item>
     
       <item>
         <title>Sit down and think what features to remove</title>
