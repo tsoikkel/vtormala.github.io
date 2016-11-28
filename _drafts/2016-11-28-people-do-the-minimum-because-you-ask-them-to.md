@@ -29,10 +29,10 @@ In “The New New Product Development Game” [^1], the HBR Article where Ken Sc
 
 How often do you see this happen?
 
-Many organizations promote self-organization. But many times, most of the thinking and planning has been already done before work is handed out to teams. Too often teams are forced to use company processes and tools that don’t help them. And before the team gets started one team members is resourced to another project.
+Many organizations promote self-organization. But many times, most of the thinking and planning has been already done before work is handed out to teams. Too often teams are forced to use company processes and tools that don’t help them. And before the team gets started one team members is moved to another project.
 
-Separation of thinking and doing is still prevailing in the organizations' structures and ways of working. For them, the primary question is not how to make teams more motivated, how to get people take more responsibility or how to get team members to work together. These are the end results of organizations structures, roles, rules etc.
+Separation of thinking and doing is still prevailing in the organizations' structures and ways of working. Real power still lies outside of the teams. For these organizations, the primary question is not how to make teams more motivated, how to get people take more responsibility or how to get team members to work together. These are the end results of organizations structures, roles, rules etc.
 
-Individuals and teams have more reason to feel motivated, accountable and to collaborate when they are handed a clear and compelling business problem. Prewritten tasks and vague themes where some else has done all the thinking equals to asking very little. People do little because organizations ask them to. Teams need something more strategic that they genuinely own and can self-organize around to. 
+Individuals and teams have more reason to feel motivated, accountable and to collaborate when they are handed a clear and compelling business problem. Pre-written tasks and vague themes where some else has done all the thinking equals to asking very little. People do little because organizations ask them to. Teams need something more strategic that they genuinely own and can self-organize around to. 
 
 [^1]: Hirotaka Takeuchi & Ikujiro Nonaka, [The New New Product Development Game](https://hbr.org/1986/01/the-new-new-product-development-game)
