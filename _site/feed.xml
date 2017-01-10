@@ -5,15 +5,15 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jan 2017 14:36:31 +0200</pubDate>
-    <lastBuildDate>Tue, 10 Jan 2017 14:36:31 +0200</lastBuildDate>
+    <pubDate>Tue, 10 Jan 2017 14:51:04 +0200</pubDate>
+    <lastBuildDate>Tue, 10 Jan 2017 14:51:04 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>People do the minimum because you ask them to</title>
-        <description>&lt;p&gt;&lt;em&gt;Organizations and managers always hope more of their people than they know how to ask for. They want everyone to be more motivated, more self-organized and more accountable. Instead of interfering directly with employees, organization’s need to examine how they think and what kind of behavior prevailing structures promote.&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;Organizations and managers always hope more of their people than they know how to ask for. They want everyone to be more motivated, more self-organized and more accountable. Instead of interfering directly with employees, organization’s need to examine their mental models and what kind of behavior prevailing structures promote.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;One of my favorite question to development teams and their members is: “What is your goal?” “What are you aiming for?” Usually, people answer after few seconds of silence. There are exceptions but answer is almost every time along these lines:&lt;/p&gt;
+&lt;p&gt;One of my favorite question to development teams and their members is: &lt;em&gt;“What is your goal? What is your project aiming for?”&lt;/em&gt; Answer is often along these lines:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;“Working for customer”&lt;/li&gt;
@@ -23,19 +23,23 @@
 
 &lt;p&gt;Clearly something is missing. People are working for something but they just can’t explain it in compelling way or in enough detail. To me that is a problem. But the problem is not in the people who provide such answers.&lt;/p&gt;
 
-&lt;p&gt;In “The New New Product Development Game” &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, the HBR Article where Ken Schwaber and Jeff Sutherland got their ideas for Scrum, Hirotaka Takeuchi and Ikujiro Nonaka describe the idea of self-organizing teams:&lt;/p&gt;
+&lt;p&gt;In “The New New Product Development Game” &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; (the HBR Article where Ken Schwaber and Jeff Sutherland got their ideas for Scrum) Hirotaka Takeuchi and Ikujiro Nonaka describe the idea of self-organizing teams:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;A project team takes on a self-organizing character as it is driven to a state of “zero information”—where prior knowledge does not apply. Ambiguity and fluctuation abound in this state. Left to stew, the process begins to create its own dynamic order. The project team begins to operate like a start-up company—it takes initiatives and risks, and develops an independent agenda. At some point, the team begins to create its own concept.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;How often do you see this happen?&lt;/p&gt;
+&lt;p&gt;How often do you see this happen in practice?&lt;/p&gt;
 
-&lt;p&gt;Many organizations promote self-organization. But many times, most of the thinking and planning has been already done before work is handed out to teams. Too often teams are forced to use company processes and tools that don’t help them. And before the team gets started one team members is moved to another project.&lt;/p&gt;
+&lt;p&gt;Many organizations promote self-organization. But many times, most of the thinking and planning has been already done before work is handed out to development teams. Too often teams are forced to use company processes and tools that don’t help them. And before the team even gets started one team members is moved to another project.&lt;/p&gt;
 
-&lt;p&gt;Separation of thinking and doing is still prevailing in the organizations’ structures and ways of working. Real power still lies outside of the teams. For these organizations, the primary question is not how to make teams more motivated, how to get people take more responsibility or how to get team members to work together. These are the end results of organizations structures, roles, rules etc.&lt;/p&gt;
+&lt;p&gt;Separation of thinking and doing is still prevailing in the organizations’ structures and ways of working. Real power still lies outside of the teams doing the actual work.&lt;/p&gt;
 
-&lt;p&gt;Individuals and teams have more reason to feel motivated, accountable and to collaborate when they are handed a clear and compelling business problem. Pre-written tasks and vague themes where some else has done all the thinking equals to asking very little. People do little because organizations ask them to. Teams need something more strategic that they genuinely own and can self-organize around to.&lt;/p&gt;
+&lt;p&gt;For these organizations, the primary question is not how to make teams more motivated, how to get people take more responsibility or how to get team members to work together. These are the end results of organizations structures, roles, rules etc.&lt;/p&gt;
+
+&lt;p&gt;Pre-written tasks and vague themes where some else has done all the thinking beforehand equals to asking very little. People do little because organizations ask them to.&lt;/p&gt;
+
+&lt;p&gt;Individuals and teams have more reason to feel motivated, accountable and to collaborate when they are handed a clear and compelling business problem.  Teams need something more strategic that they genuinely own and can self-organize around to.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
