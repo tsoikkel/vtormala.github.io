@@ -7,7 +7,7 @@ author_url : /author/ville
 author_avatar: ville
 show_avatar : false
 read_time : 34
-feature_image: feature-orava
+feature_image: feature-sheep
 show_related_posts: false
 square_related: recommend-wolf
 excerpt_separator: <!--more-->
