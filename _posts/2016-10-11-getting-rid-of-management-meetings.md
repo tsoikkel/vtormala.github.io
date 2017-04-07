@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting rid of management meetings"
-categories: Leadership
+categories: leadership
 author_name : Ville
 author_url : /author/ville
 author_avatar: ville
