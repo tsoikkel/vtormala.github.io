@@ -5,85 +5,346 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Apr 2017 13:42:58 +0300</pubDate>
-    <lastBuildDate>Fri, 07 Apr 2017 13:42:58 +0300</lastBuildDate>
+    <pubDate>Fri, 07 Apr 2017 15:44:53 +0300</pubDate>
+    <lastBuildDate>Fri, 07 Apr 2017 15:44:53 +0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>It's Your Treehouse</title>
-        <description>&lt;p&gt;&lt;em&gt;Creating a team space is more than suitable seating arrangement. As a leader your job is not to tweak the office space but to arrange prober conditions for the team to build their own treehouse.&lt;/em&gt;&lt;/p&gt;
+        <title>Opposite ideas, part 2 - Project Thinking vs. Stable Teams Thinking</title>
+        <description>&lt;p&gt;This part 2 of my collection of oppposite ideas about central topics of Software Development. Like in the previous post, I originally made this for myself to clarify my own ideas.&lt;/p&gt;
 
-&lt;p&gt;Team needs a place where to work together. So, with that basic requirement, what are you about to build?&lt;/p&gt;
-
-&lt;p&gt;Do you arrange “an office space” for the team? Plan and fix seating arrangements? Perhaps add a coffee maker and a plant to put finishing touches to it. This is all fine, but in my opinion not enough.&lt;/p&gt;
-
-&lt;p&gt;I propose another kind of mindset: Find a place where team can build their own “team space”. To distinguish it from an “office space”, I woulr call it:&lt;/p&gt;
+&lt;p&gt;This time the opposing ways of thinking are&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;A Team Lounge&lt;/li&gt;
-  &lt;li&gt;Living room&lt;/li&gt;
-  &lt;li&gt;Hideout&lt;/li&gt;
-  &lt;li&gt;Lair&lt;/li&gt;
-  &lt;li&gt;Refuge&lt;/li&gt;
-  &lt;li&gt;Garage&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Project Thinkin&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Stable Teams Thinking&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Even a treehouse.&lt;/p&gt;
+&lt;p&gt;Again, In real life things are not as black and white.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/treehouse.jpg&quot; alt=&quot;Treehouse&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Yes, you guessed right. I favor stable teams thinking. This table actually summarises the toolbox I use when starting to work with a struckling “team” (usually pseudo team).&lt;/p&gt;
 
-&lt;p&gt;I am sure you can come up with a better name. Naming is important because words convey meaning. All the examples above embody different thinking and ideas than “office space”.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h1 id=&quot;its-your-treehouse&quot;&gt;It’s Your Treehouse&lt;/h1&gt;
+&lt;p&gt;##Staffing&lt;/p&gt;
 
-&lt;p&gt;You want to have a dedicated place where your team feels like home. Something they build and belongs to them. It’s their sofa, their coffee maker, their rituals, their rules. And most probably, their mess, too.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Projects based organization and project resourcing.&lt;/strong&gt; Move people based on project needs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Organization is build around stable and cross-functional teams.&lt;/strong&gt; Work is designed to fit stable teams. Manage the contents of the work that teams pull to their backlog.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;In your treehouse, you feel safe to speak out, present your ideas, wear an ugly T-shirt etc. Something that you probably wouldn’t do in a large open space with 50 other (strange) people. Openness and transparency is a good target. But too much of it can prevent collaboration, experiments and healthy amount of risk taking.&lt;/p&gt;
+&lt;h2 id=&quot;focus-of-improvement&quot;&gt;Focus of improvement&lt;/h2&gt;
 
-&lt;p&gt;Teams and individuals need some level of privacy. Maybe add phone booths in the treehouse where people can go when they need personal privacy and silence.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Become better at resourcing people into projects.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Focus on building as good teams as possible and creating an environment for teams to flourish.&lt;/strong&gt; Become better at building communities.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;But the idea is not to hide yourself from the rest of the world. You want to have the opposite. It’s better to have good quality meetups rather than being exposed to clutter that doesn’t concern you.&lt;/p&gt;
+&lt;h2 id=&quot;optimize&quot;&gt;Optimize&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Your treehouse is not only a place where you do your work.  A place where you &lt;em&gt;invite others&lt;/em&gt;. And make it &lt;em&gt;easy for others to make a visit.&lt;/em&gt; Kind of like your home.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Start as many projects as you can&lt;/strong&gt; The more the projects, the more the progress. Start new because there is work on hold.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Limit the number of projects.&lt;/strong&gt; The better the flow, the better the progress. Finish before starting new.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h1 id=&quot;nomeetings&quot;&gt;#nomeetings&lt;/h1&gt;
+&lt;h2 id=&quot;management-focus&quot;&gt;Management focus&lt;/h2&gt;
 
-&lt;p&gt;For a team, going into a meeting somewhere else can imply broken power structures (decision making), wasted time, slow cadence (waiting for meetings) and poor productivity.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Available resources, needed resources.&lt;/strong&gt; Optimize projects (optimize locally).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Value and flow (iterate on value, remove waste…)&lt;/strong&gt; Optimize products/services (optimize globally, end-to-end)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Finding a time slot that suits all and booking a meeting room is slow and unproductive – waste. Inviting people to have mini retrospective should be matter of minutes, not days (or even weeks).&lt;/p&gt;
+&lt;h2 id=&quot;unit-of-production&quot;&gt;Unit of production&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Having a separate meeting scheduled long in the future to plan, review, meet, make decisions, get more info, discuss etc. can be considered an anti-pattern.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;A single person.&lt;/strong&gt; Specialised roles. Organizations are built around projects. Individuals as a unit of productions, individuals get the work done (and are rewared for it)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cross-functional stable team.&lt;/strong&gt; Organizations are built around stable teams. Teams as a unit of production, teams get the work done. When work is done, its impossible to say who did it and who gets the reward.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;In the treehouse, there is a plenty of space in the walls (whiteboards) to draw. TV-screen or two. A sofa. Webcam. Etc. Your treehouse is the 24/7 ~meeting~ conversation room.&lt;/p&gt;
+&lt;h2 id=&quot;efficiency&quot;&gt;&lt;strong&gt;Efficiency&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;You want to replace as many meetings you can with good quality conversations. Team has a good chance of success when do the work and all the time talk about it.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;”Measure how well resources are used to achieve ends”&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“What we can do differently?“ “How to improve?”&lt;/strong&gt; Manage flow and waste. Iterate on value.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h1 id=&quot;why&quot;&gt;Why?&lt;/h1&gt;
+&lt;h2 id=&quot;assignment&quot;&gt;Assignment&lt;/h2&gt;
 
-&lt;p&gt;You already know the rationale behind all this. When you really want to have results, individuals and interactions matter.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;”Executing a plan brings success” ”Complete this project as agreed”&lt;/strong&gt;
+Work according to plan made by someone else. Local optimization.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;”Plan how to deliver a solution to these customers”&lt;/strong&gt; 
+“Here is the problem and goal. Find a best solution.” (Teams work on ”strategic level”). Global optimization.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Fluent information flows are essential. In team’s shared audible and visible space, everyone usually knows what is happening.&lt;/p&gt;
+&lt;h2 id=&quot;method-for-improvement&quot;&gt;Method for improvement&lt;/h2&gt;
 
-&lt;p&gt;All forms of communication are not equal. Rich forms of communication make all the difference. Try having a Skype meeting with and without video. Actually seeing the people you talk with changes the experience and how you interpret the message. We are human after all.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;”Doing the work is the work”&lt;/strong&gt; Improvement projects, improved processes, train people lecture style. Single loop learning: are we executing this right?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;”Doing the work and improving the work is the work.”&lt;/strong&gt; Improve team capability. Build-in improvement, front-line experiments and learning. Douple-loop learning: Are we doing the right things?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;A brilliant working environment for the team is a priority. The goal is to have good quality information flow and rich form of communications.&lt;/p&gt;
+&lt;h2 id=&quot;nature-of-the-work&quot;&gt;Nature of the work&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;When the enabling conditions are the, you can expect the quality of the conversations to get better. This is a basic requirement for the team to learn and start developing their own ways of working.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Work gets done when each of the needed special roles does their part according to plan.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Daily work involves solving unique problems together.&lt;/strong&gt; The workers themselves have the best knowledge of the work. Leaning and development happens when people work on problems together.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Individual goals&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Team goals, shared goals&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-        <pubDate>Tue, 07 Mar 2017 00:00:00 +0200</pubDate>
-        <link>/its-your-treehouse</link>
-        <guid isPermaLink="true">/its-your-treehouse</guid>
+        <pubDate>Wed, 15 Mar 2017 00:00:00 +0200</pubDate>
+        <link>/opposite-ideas-projects-vs-stable-teams</link>
+        <guid isPermaLink="true">/opposite-ideas-projects-vs-stable-teams</guid>
         
         
-        <category>teams</category>
+        <category>software</category>
+        
+      </item>
+    
+      <item>
+        <title>Opposite ideas, part 1 - Software Dedevelopment</title>
+        <description>&lt;p&gt;This is my collection of oppposite ideas about central topics of Software Development. I originally made it for myself to clarify my own ideas.&lt;/p&gt;
+
+&lt;p&gt;If I’d have to name the two opposing ideas, they would be:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Traditional Ideas&lt;/strong&gt; (Manufacturing mindset, Tayloristic thinking, SW Factory…)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative Ideas&lt;/strong&gt; (Agile, Lean, DevOps, Systems Thinking, Complexity Theory…)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I know. In real life things are not as black and white as this form of presenation indicates. Although I am huge advocate of the alternative ideas, the idea is not to point right and wrong answers but to highlight differences in thinking.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;definition-of-done&quot;&gt;Definition of Done&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Project (work) ends in production deployment”&lt;/strong&gt; Production deployment is done at the end of the project. Big lauch at the end.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Project (work) starts from the first production deployment”&lt;/strong&gt; First production deployment is done within days (or even hours) from the kick-off. Gradually building full-time production usage.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Do it right the first time”&lt;/strong&gt; Big upfront design. Deliver in one big batch (or in several big batches).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Add needed pieces only when needed.”&lt;/strong&gt; Deliver in small pieces incremantally, in streams.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;*“One time process with separate functional phases and roles”&lt;/em&gt; Separation of work and working units. Tayloristic desing of work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Iterate over the process many times fast as a cross-functional team”&lt;/strong&gt; Whole team approach. Cross-functional teams.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;decision-making&quot;&gt;Decision making&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Analyse and gather all needed information beforehand.”&lt;/strong&gt; Get needed knowledge before starting the actual development work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Software development is a knowledge creation process.”&lt;/strong&gt; Decide as late as possible.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;architecture--design&quot;&gt;Architecture &amp;amp; Design&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Know all (most) technical details in the beginning.”&lt;/strong&gt; Create detailed design and architecture upfront.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on vision and goals.”&lt;/strong&gt; Let details emerge during the process.”Plan on adequate level (sometimes quite a lot, find the boundaries). Iterate and evolve design and architecture.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;focus-on-plans&quot;&gt;Focus on plans&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on following the plan and delivering according to plan”&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on delivering outcomes and value”&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;definition-of-success&quot;&gt;Definition of Success&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Keeping project in time/budget/schedule”&lt;/strong&gt; Fixed schedule, budget, scope&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Measured added customer value”&lt;/strong&gt; Flexibility over scope. Digg into value of each feature. Optimizing value requires being flexible over scope.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-go-fast&quot;&gt;How to go fast&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Work harder and keep everyone busy”&lt;/strong&gt; Manage efficiency and utilization. Optimize time and resources to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on flow efficiency, keep the work flowing”&lt;/strong&gt; Manage and optimize product development flow to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;efficiency-speed-cost&quot;&gt;Efficiency, speed, cost&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“We need to code faster”&lt;/strong&gt; Cost is in the length of an activity. Optimize each separate activity to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“We need to work smarter”&lt;/strong&gt; Cost is in the inefficient flow. Optimize the flow and remove waste to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quality&quot;&gt;Quality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Inspect quality when done”&lt;/strong&gt; Use external measures to inspect quality. Fix possible problems at the end.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Build quality in”&lt;/strong&gt; Prevent defects from happening. Add quality within the work. Stop the line when process is broken.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;learning-improvement&quot;&gt;Learning, improvement&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Improve through company wide standardization and best practices.”&lt;/strong&gt; Separate improvement projects. Work is driven by processes and practices.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Improve  through experimentation within the work.”&lt;/strong&gt; Learning and improving build in to the work. Follow principles agreed within the team.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;process-ownership&quot;&gt;Process Ownership&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Company owns the process. Use audits and standards.”&lt;/strong&gt; Single loop learning: “Are we doing this right”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Autonomy and ownership of the work is within the team.”&lt;/strong&gt; Team owns and improves its working process. Double loop learning: Why are we doing this?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;learning-improvement-1&quot;&gt;Learning, improvement&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Analyse project success in the end or in the phase-gates.”&lt;/strong&gt; Late learning. Lessons-learned studies / post-mortems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Aim for fast feedback cycle.”&lt;/strong&gt; Get feedback after every iteration / all the time (hourly, daily, weekly)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;decision-making-1&quot;&gt;Decision making&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Centralized decision making outside the team&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Those who do the actual work make decisions&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;value-benefits&quot;&gt;Value, benefits&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Analyse value”&lt;/strong&gt; Analyse value based on planning phase studies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Measure value”&lt;/strong&gt; Analyse and measure value early based on actual data from production use.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;risk-management&quot;&gt;Risk management&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Manage deliverable and process quality”&lt;/strong&gt; Milestone plans and phase-gates, proceed when certain criteria is met. Fail at the end (usually), impact and cost is high.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Reduce risk everyday”&lt;/strong&gt; Build high risk and high value items first. Mitigate risks by doing the risky work right away. Fail fast, impact and cost of failure is low.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 12 Mar 2017 00:00:00 +0200</pubDate>
+        <link>/opposite-ideas-software</link>
+        <guid isPermaLink="true">/opposite-ideas-software</guid>
+        
+        
+        <category>software</category>
         
       </item>
     
