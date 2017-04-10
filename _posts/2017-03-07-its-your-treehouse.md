@@ -19,7 +19,7 @@ Team needs a place where to work together. So, with that basic requirement, what
 
 Do you arrange "an office space" for the team? Plan and fix seating arrangements? Perhaps add a coffee maker and a plant to put finishing touches to it. This is all fine, but in my opinion not enough.
 
-I propose another kind of mindset: Find a place where team can build their own "team space". To distinguish it from an "office space", I woulr call it:
+I propose another kind of mindset: Find a place where team can build their own "team space". To distinguish it from an "office space", I would call it:
 
 * A Team Lounge
 * Living room
