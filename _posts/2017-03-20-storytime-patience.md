@@ -13,7 +13,7 @@ square_related: recommend-mountain
 excerpt_separator: <!--more-->
 ---
 
-**My colleague worked with a newly formed team couple of years ago. The story he shared reminded me of having realistic expectations and patience when we talked about unlearning old ways of working.** 
+**My colleague worked with a newly formed team couple of years ago. The story he shared reminded me of having realistic expectations and patience when dealing with unlearning of old ways of working.** 
 
 > Team made a plan how to deliver a set of features within one month to customer. Plan was made together and team was content with it.
 > 
