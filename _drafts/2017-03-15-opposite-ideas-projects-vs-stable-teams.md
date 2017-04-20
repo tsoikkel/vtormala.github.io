@@ -57,8 +57,8 @@ Yes, you guessed right. I favor stable teams thinking. This table actually summa
 
 * **Cross-functional stable team.** Organizations are built around stable teams. Teams as a unit of production, teams get the work done. When work is done, its impossible to say who did it and who gets the reward.
 
-## **Efficiency**
-
+## **Efficiency*
+*
 * **”Measure how well resources are used to achieve ends”** 
 
 * **"What we can do differently?“ “How to improve?”** Manage flow and waste. Iterate on value.
