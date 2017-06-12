@@ -5,6 +5,7 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< refs/remotes/origin/master
     <pubDate>Thu, 20 Apr 2017 13:33:35 +0300</pubDate>
     <lastBuildDate>Thu, 20 Apr 2017 13:33:35 +0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
@@ -123,6 +124,75 @@
         
         
         <category>teams</category>
+=======
+    <pubDate>Mon, 12 Jun 2017 22:10:31 +0300</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2017 22:10:31 +0300</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Beware of Ticketization!</title>
+        <description>&lt;p&gt;&lt;strong&gt;My advice is to use as little ticket tools in software development as possible. They certainly have their benefits but overusing them usually reflects bad ways of working. Instead of fixing your ticket tool, aim to use it as little as possible.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a term for a phenomenon how medicines have conquered almost all aspects of our lives:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Medicalisation  is the process by which human conditions and problems come to be defined and treated as medical conditions, and thus become the subject of medical study, diagnosis, prevention, or treatment. (Source: Wikipedia)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It is not simply good or bad, but a definitely something complex and ubiquitous.&lt;/p&gt;
+
+&lt;p&gt;I see a similar thing to happen in organizations. I call it ticketization (or issueization for all JIRA users out there). My quick definition:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ticketization is the process by which all problems come to be defined as a set of simple tickets, issues or tasks. All problems, goals and endeavours become the subject or creating, assigning and tracking tickets.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tickets/issues/tasks/stories - whatever you choose to call them - are everywhere. If you don’t believe me, good luck on trying to get your IT support to do something without a ticket or issue on their system.&lt;/p&gt;
+
+&lt;p&gt;And it’s the same as with all things in life. When things go too far, bad things can happen.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;“My issues and your issues”&lt;/em&gt;: Everyone is completing their own tickets only.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“That is someone else’s issue”&lt;/em&gt;: Tickets represent roles and division of work in unhealthy way.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“Requirements Manager created issues for the team”&lt;/em&gt;: Separation of thinking and doing.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“I assigned this issue for you”&lt;/em&gt;: Over using ticketing tool as management system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But things can go even more wrong.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;“Doing what is told”&lt;/em&gt;: No adaptability over tickets&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“We must complete these issues”&lt;/em&gt;: No working on the whole. Focus on issue level. Completing issues becomes the goal.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“The more tickets the better”&lt;/em&gt;: Tickets as a metric of productivity.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“Let’s improve JIRA statuses and transitions”&lt;/em&gt;: Focusing on ticket process/flows instead of improving the actual product development flow.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“We all must use this ticket workflow”&lt;/em&gt;: Codified or predefined common workflows instead of team owning it’s process.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“Didn’t you see my comment in the ticket system?”&lt;/em&gt;: Discussing over tickets only.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“According to our ticket SLA metrics, your service is working just fine”&lt;/em&gt;: Managing the service over tickets (SLAs over created value).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So, what to do about this?&lt;/p&gt;
+
+&lt;p&gt;I am not saying that you should stop using all ticket tools. That would be silly. Tools can be very helpful but they also shape how we work and think. They can also become barriers on improving the work.&lt;/p&gt;
+
+&lt;p&gt;My view is that when you need to rely very little on ticketing systems, you are probably doing fine.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You probably update what was discussed face to face to the ticketing system. Your communications are richer and faster.&lt;/li&gt;
+  &lt;li&gt;You are working with actual goals and have the needed adaptability, not just set of tickets.&lt;/li&gt;
+  &lt;li&gt;Team members are pulling work (creating and assigning tickets to themselves), when needed.&lt;/li&gt;
+  &lt;li&gt;You have simple ticketing workflow that represent elegant and reliable workflow in the actual work (e.g. Git workflow)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When you have these sort of things in good condition your supporting tool works mostly ok. In other words, the better the work works for you, the less you get frustrated with your tools. So, don’t let your ticketing tool to become your master.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 +0200</pubDate>
+        <link>/beware-of-ticketization</link>
+        <guid isPermaLink="true">/beware-of-ticketization</guid>
+        
+        
+        <category>leadership</category>
+>>>>>>> More blogs!
         
       </item>
     
