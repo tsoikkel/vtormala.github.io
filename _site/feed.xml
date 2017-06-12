@@ -5,14 +5,130 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< refs/remotes/origin/master
-    <pubDate>Thu, 20 Apr 2017 13:33:35 +0300</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2017 13:33:35 +0300</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2017 22:46:22 +0300</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2017 22:46:22 +0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
+        <title>Beware of Ticketization!</title>
+        <description>&lt;p&gt;&lt;strong&gt;My advice is to use as little ticket tools in software development as possible. They certainly have their benefits but overusing them usually reflects bad ways of working. Instead of fixing your ticket tool, aim to use it as little as possible.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a term for a phenomenon how medicines have conquered almost all aspects of our lives:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Medicalisation  is the process by which human conditions and problems come to be defined and treated as medical conditions, and thus become the subject of medical study, diagnosis, prevention, or treatment. (Source: Wikipedia)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It is not simply good or bad, but a definitely something complex and ubiquitous.&lt;/p&gt;
+
+&lt;p&gt;I see a similar thing to happen in organizations. I call it ticketization (or issueization for all JIRA users out there). My quick definition:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ticketization is the process by which all problems come to be defined as a set of simple tickets, issues or tasks. All problems, goals and endeavours become the subject or creating, assigning and tracking tickets.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tickets/issues/tasks/stories - whatever you choose to call them - are everywhere. If you don’t believe me, good luck on trying to get your IT support to do something without a ticket or issue on their system.&lt;/p&gt;
+
+&lt;p&gt;And it’s the same as with all things in life. When things go too far, bad things can happen.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;“My issues and your issues”&lt;/em&gt;: Everyone is completing their own tickets only.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“That is someone else’s issue”&lt;/em&gt;: Tickets represent roles and division of work in unhealthy way.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“Requirements Manager created issues for the team”&lt;/em&gt;: Separation of thinking and doing.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“I assigned this issue for you”&lt;/em&gt;: Over using ticketing tool as management system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But things can go even more wrong.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;“Doing what is told”&lt;/em&gt;: No adaptability over tickets&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“We must complete these issues”&lt;/em&gt;: No working on the whole. Focus on issue level. Completing issues becomes the goal.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“The more tickets the better”&lt;/em&gt;: Tickets as a metric of productivity.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“Let’s improve JIRA statuses and transitions”&lt;/em&gt;: Focusing on ticket process/flows instead of improving the actual product development flow.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“We all must use this ticket workflow”&lt;/em&gt;: Codified or predefined common workflows instead of team owning it’s process.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“Didn’t you see my comment in the ticket system?”&lt;/em&gt;: Discussing over tickets only.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“According to our ticket SLA metrics, your service is working just fine”&lt;/em&gt;: Managing the service over tickets (SLAs over created value).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So, what to do about this?&lt;/p&gt;
+
+&lt;p&gt;I am not saying that you should stop using all ticket tools. That would be silly. Tools can be very helpful but they also shape how we work and think. They can also become barriers on improving the work.&lt;/p&gt;
+
+&lt;p&gt;My view is that when you need to rely very little on ticketing systems, you are probably doing fine.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You probably update what was discussed face to face to the ticketing system. Your communications are richer and faster.&lt;/li&gt;
+  &lt;li&gt;You are working with actual goals and have the needed adaptability, not just set of tickets.&lt;/li&gt;
+  &lt;li&gt;Team members are creating and assigning tickets by themselves, when needed.&lt;/li&gt;
+  &lt;li&gt;You have simple ticketing workflow that represent elegant and reliable workflow in the actual work (e.g. Git workflow)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When you have these sort of things in good condition your supporting tool works mostly ok. In other words, the better the work works for you, the less you get frustrated with your tools. So, don’t let your ticketing tool to become your master.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 12 Jun 2017 00:00:00 +0300</pubDate>
+        <link>/beware-of-ticketization</link>
+        <guid isPermaLink="true">/beware-of-ticketization</guid>
+        
+        
+        <category>leadership</category>
+        
+      </item>
+    
+      <item>
+        <title>Tip for your Agile Transformation: Let go</title>
+        <description>&lt;p&gt;&lt;strong&gt;One fundamental problem in traditional organisations is the separation of thinking and doing. That is the notion where the managers’ role is to think and plan how to do the work. And then, it is the workers’ role to execute according to plans handed to them. Organisations where this type of thinking prevails often end up doing their transformation efforts the same way. And that is one major reason why  transformations fail.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;First the basics:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All major modern/agile/lean/whatever organisation transformations are greatly about increasing the power and incluence of the people who are doing the grass-rool level work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But still many transformation efforts end-up like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“We are discussion this on our next management meeting”&lt;/li&gt;
+  &lt;li&gt;“You are welcome to comment on the plans the management is making”&lt;/li&gt;
+  &lt;li&gt;“Our new CEO will come up with a plan”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To me, this equals missing the point.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One of the first things to do, is to shift and redistribute the work of doing the thinking. It’s about bringing together all doing and thinking that happens in the organisation. And this should be visible in the structures and practices as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I know, it’s a big step. And yes, there are risks.  Something will definitely go wrong. People will not automatically know how to do things that were proviously taken care of by someone else.&lt;/p&gt;
+
+&lt;p&gt;It takes time. It is not easy. &lt;a href=&quot;http://villetormala.com/storytime-patience&quot;&gt;You need patience.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But they will learn. And once they know more, the whole organisation knows more. And then you have better more and more healthy organisation. And definitily it will be more agile/lean/whatever.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Organizational change is not about adopting a new trendy method. It’s about chaning the structures that keep the old ways of working in place.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And no, inviting more people to work with the existing management process is not about redistributing power. People need to own and create their own their own work.  Then they have enough contextual knowledge and influence to improve it.&lt;/p&gt;
+
+&lt;p&gt;Although remowing waste and optimizing workflows are central in lean, they are not the real essense of it. Instead, one of the most important success factors in lean is the &lt;em&gt;“ability to harness the intellect of each ordinary employees”&lt;/em&gt; to do and improve the work all the time. If you want to have an lean organisation, your fancy kanban board is just a collection of post-it notes without changes in the prevailing structures.&lt;/p&gt;
+
+&lt;p&gt;What about the managers who used to do all the thinking and planning? They have a now role. To teach, mentor, provide inspiration. Talk about the future. Have meaningfull discussions.&lt;/p&gt;
+
+&lt;p&gt;But as a first step, let go.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Jun 2017 00:00:00 +0300</pubDate>
+        <link>/tip-for-your-agile-transformation-let-go</link>
+        <guid isPermaLink="true">/tip-for-your-agile-transformation-let-go</guid>
+        
+        
+        <category>leadership</category>
+        
+      </item>
+    
+      <item>
         <title>Storytime: Patience</title>
-        <description>&lt;p&gt;&lt;strong&gt;My colleague worked with a newly formed team couple of years ago. The story he shared reminded me of having realistic expectations and patience when we talked about unlearning old ways of working.&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;My colleague worked with a newly formed team couple of years ago. The story he shared reminded me of having realistic expectations and patience when dealing with unlearning of old ways of working.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Team made a plan how to deliver a set of features within one month to customer. Plan was made together and team was content with it.&lt;/p&gt;
@@ -46,6 +162,542 @@
         
         
         <category>storytime</category>
+        
+      </item>
+    
+      <item>
+        <title>Opposite ideas, part 2 - Project Thinking vs. Stable Teams Thinking</title>
+        <description>&lt;p&gt;This part 2 of my collection of oppposite ideas about central topics of Software Development. Like in the previous post, I originally made this for myself to clarify my own ideas.&lt;/p&gt;
+
+&lt;p&gt;This time the opposing ways of thinking are&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Project Thinkin&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Stable Teams Thinking&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Again, In real life things are not as black and white.&lt;/p&gt;
+
+&lt;p&gt;Yes, you guessed right. I favor stable teams thinking. This table actually summarises the toolbox I use when starting to work with a struckling “team” (usually pseudo team).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;##Staffing&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Projects based organization and project resourcing.&lt;/strong&gt; Move people based on project needs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Organization is build around stable and cross-functional teams.&lt;/strong&gt; Work is designed to fit stable teams. Manage the contents of the work that teams pull to their backlog.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;focus-of-improvement&quot;&gt;Focus of improvement&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Become better at resourcing people into projects.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Focus on building as good teams as possible and creating an environment for teams to flourish.&lt;/strong&gt; Become better at building communities.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;optimize&quot;&gt;Optimize&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Start as many projects as you can&lt;/strong&gt; The more the projects, the more the progress. Start new because there is work on hold.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Limit the number of projects.&lt;/strong&gt; The better the flow, the better the progress. Finish before starting new.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;management-focus&quot;&gt;Management focus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Available resources, needed resources.&lt;/strong&gt; Optimize projects (optimize locally).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Value and flow (iterate on value, remove waste…)&lt;/strong&gt; Optimize products/services (optimize globally, end-to-end)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;unit-of-production&quot;&gt;Unit of production&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;A single person.&lt;/strong&gt; Specialised roles. Organizations are built around projects. Individuals as a unit of productions, individuals get the work done (and are rewared for it)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cross-functional stable team.&lt;/strong&gt; Organizations are built around stable teams. Teams as a unit of production, teams get the work done. When work is done, its impossible to say who did it and who gets the reward.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;efficiency&quot;&gt;&lt;em&gt;*Efficiency&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;*
+* &lt;strong&gt;”Measure how well resources are used to achieve ends”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;“What we can do differently?“ “How to improve?”&lt;/strong&gt; Manage flow and waste. Iterate on value.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;assignment&quot;&gt;Assignment&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;”Executing a plan brings success” ”Complete this project as agreed”&lt;/strong&gt;
+Work according to plan made by someone else. Local optimization.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;”Plan how to deliver a solution to these customers”&lt;/strong&gt; 
+“Here is the problem and goal. Find a best solution.” (Teams work on ”strategic level”). Global optimization.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;method-for-improvement&quot;&gt;Method for improvement&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;”Doing the work is the work”&lt;/strong&gt; Improvement projects, improved processes, train people lecture style. Single loop learning: are we executing this right?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;”Doing the work and improving the work is the work.”&lt;/strong&gt; Improve team capability. Build-in improvement, front-line experiments and learning. Douple-loop learning: Are we doing the right things?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;nature-of-the-work&quot;&gt;Nature of the work&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Work gets done when each of the needed special roles does their part according to plan.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Daily work involves solving unique problems together.&lt;/strong&gt; The workers themselves have the best knowledge of the work. Leaning and development happens when people work on problems together.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Individual goals&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Team goals, shared goals&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 15 Mar 2017 00:00:00 +0200</pubDate>
+        <link>/opposite-ideas-projects-vs-stable-teams</link>
+        <guid isPermaLink="true">/opposite-ideas-projects-vs-stable-teams</guid>
+        
+        
+        <category>software</category>
+        
+      </item>
+    
+      <item>
+        <title>Opposite ideas, part 1 - Software Dedevelopment</title>
+        <description>&lt;p&gt;This is my collection of oppposite ideas about central topics of Software Development. I originally made it for myself to clarify my own ideas.&lt;/p&gt;
+
+&lt;p&gt;If I’d have to name the two opposing ideas, they would be:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Traditional Ideas&lt;/strong&gt; (Manufacturing mindset, Tayloristic thinking, SW Factory…)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative Ideas&lt;/strong&gt; (Agile, Lean, DevOps, Systems Thinking, Complexity Theory…)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I know. In real life things are not as black and white as this form of presenation indicates. Although I am huge advocate of the alternative ideas, the idea is not to point right and wrong answers but to highlight differences in thinking.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;definition-of-done&quot;&gt;Definition of Done&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Project (work) ends in production deployment”&lt;/strong&gt; Production deployment is done at the end of the project. Big lauch at the end.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Project (work) starts from the first production deployment”&lt;/strong&gt; First production deployment is done within days (or even hours) from the kick-off. Gradually building full-time production usage.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Do it right the first time”&lt;/strong&gt; Big upfront design. Deliver in one big batch (or in several big batches).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Add needed pieces only when needed.”&lt;/strong&gt; Deliver in small pieces incremantally, in streams.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;*“One time process with separate functional phases and roles”&lt;/em&gt; Separation of work and working units. Tayloristic desing of work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Iterate over the process many times fast as a cross-functional team”&lt;/strong&gt; Whole team approach. Cross-functional teams.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;decision-making&quot;&gt;Decision making&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Analyse and gather all needed information beforehand.”&lt;/strong&gt; Get needed knowledge before starting the actual development work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Software development is a knowledge creation process.”&lt;/strong&gt; Decide as late as possible.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;architecture--design&quot;&gt;Architecture &amp;amp; Design&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Know all (most) technical details in the beginning.”&lt;/strong&gt; Create detailed design and architecture upfront.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on vision and goals.”&lt;/strong&gt; Let details emerge during the process.”Plan on adequate level (sometimes quite a lot, find the boundaries). Iterate and evolve design and architecture.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;focus-on-plans&quot;&gt;Focus on plans&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on following the plan and delivering according to plan”&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on delivering outcomes and value”&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;definition-of-success&quot;&gt;Definition of Success&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Keeping project in time/budget/schedule”&lt;/strong&gt; Fixed schedule, budget, scope&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Measured added customer value”&lt;/strong&gt; Flexibility over scope. Digg into value of each feature. Optimizing value requires being flexible over scope.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-go-fast&quot;&gt;How to go fast&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Work harder and keep everyone busy”&lt;/strong&gt; Manage efficiency and utilization. Optimize time and resources to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on flow efficiency, keep the work flowing”&lt;/strong&gt; Manage and optimize product development flow to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;efficiency-speed-cost&quot;&gt;Efficiency, speed, cost&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“We need to code faster”&lt;/strong&gt; Cost is in the length of an activity. Optimize each separate activity to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“We need to work smarter”&lt;/strong&gt; Cost is in the inefficient flow. Optimize the flow and remove waste to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quality&quot;&gt;Quality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Inspect quality when done”&lt;/strong&gt; Use external measures to inspect quality. Fix possible problems at the end.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Build quality in”&lt;/strong&gt; Prevent defects from happening. Add quality within the work. Stop the line when process is broken.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;learning-improvement&quot;&gt;Learning, improvement&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Improve through company wide standardization and best practices.”&lt;/strong&gt; Separate improvement projects. Work is driven by processes and practices.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Improve  through experimentation within the work.”&lt;/strong&gt; Learning and improving build in to the work. Follow principles agreed within the team.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;process-ownership&quot;&gt;Process Ownership&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Company owns the process. Use audits and standards.”&lt;/strong&gt; Single loop learning: “Are we doing this right”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Autonomy and ownership of the work is within the team.”&lt;/strong&gt; Team owns and improves its working process. Double loop learning: Why are we doing this?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;learning-improvement-1&quot;&gt;Learning, improvement&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Analyse project success in the end or in the phase-gates.”&lt;/strong&gt; Late learning. Lessons-learned studies / post-mortems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Aim for fast feedback cycle.”&lt;/strong&gt; Get feedback after every iteration / all the time (hourly, daily, weekly)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;decision-making-1&quot;&gt;Decision making&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Centralized decision making outside the team&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Those who do the actual work make decisions&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;value-benefits&quot;&gt;Value, benefits&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Analyse value”&lt;/strong&gt; Analyse value based on planning phase studies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Measure value”&lt;/strong&gt; Analyse and measure value early based on actual data from production use.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;risk-management&quot;&gt;Risk management&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Manage deliverable and process quality”&lt;/strong&gt; Milestone plans and phase-gates, proceed when certain criteria is met. Fail at the end (usually), impact and cost is high.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Reduce risk everyday”&lt;/strong&gt; Build high risk and high value items first. Mitigate risks by doing the risky work right away. Fail fast, impact and cost of failure is low.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 12 Mar 2017 00:00:00 +0200</pubDate>
+        <link>/opposite-ideas</link>
+        <guid isPermaLink="true">/opposite-ideas</guid>
+        
+        
+        <category>software</category>
+        
+      </item>
+    
+      <item>
+        <title>Opposite ideas, part 1 - Software Dedevelopment</title>
+        <description>&lt;p&gt;This is my collection of oppposite ideas about central topics of Software Development. I originally made it for myself to clarify my own ideas.&lt;/p&gt;
+
+&lt;p&gt;If I’d have to name the two opposing ideas, they would be:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Traditional Ideas&lt;/strong&gt; (Manufacturing mindset, Tayloristic thinking, SW Factory…)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alternative Ideas&lt;/strong&gt; (Agile, Lean, DevOps, Systems Thinking, Complexity Theory…)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I know. In real life things are not as black and white as this form of presenation indicates. Although I am huge advocate of the alternative ideas, the idea is not to point right and wrong answers but to highlight differences in thinking.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;definition-of-done&quot;&gt;Definition of Done&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Project (work) ends in production deployment”&lt;/strong&gt; Production deployment is done at the end of the project. Big lauch at the end.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Project (work) starts from the first production deployment”&lt;/strong&gt; First production deployment is done within days (or even hours) from the kick-off. Gradually building full-time production usage.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Do it right the first time”&lt;/strong&gt; Big upfront design. Deliver in one big batch (or in several big batches).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Add needed pieces only when needed.”&lt;/strong&gt; Deliver in small pieces incremantally, in streams.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;*“One time process with separate functional phases and roles”&lt;/em&gt; Separation of work and working units. Tayloristic desing of work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Iterate over the process many times fast as a cross-functional team”&lt;/strong&gt; Whole team approach. Cross-functional teams.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;decision-making&quot;&gt;Decision making&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Analyse and gather all needed information beforehand.”&lt;/strong&gt; Get needed knowledge before starting the actual development work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Software development is a knowledge creation process.”&lt;/strong&gt; Decide as late as possible.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;architecture--design&quot;&gt;Architecture &amp;amp; Design&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Know all (most) technical details in the beginning.”&lt;/strong&gt; Create detailed design and architecture upfront.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on vision and goals.”&lt;/strong&gt; Let details emerge during the process.”Plan on adequate level (sometimes quite a lot, find the boundaries). Iterate and evolve design and architecture.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;focus-on-plans&quot;&gt;Focus on plans&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on following the plan and delivering according to plan”&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on delivering outcomes and value”&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;definition-of-success&quot;&gt;Definition of Success&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Keeping project in time/budget/schedule”&lt;/strong&gt; Fixed schedule, budget, scope&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Measured added customer value”&lt;/strong&gt; Flexibility over scope. Digg into value of each feature. Optimizing value requires being flexible over scope.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-go-fast&quot;&gt;How to go fast&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Work harder and keep everyone busy”&lt;/strong&gt; Manage efficiency and utilization. Optimize time and resources to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Focus on flow efficiency, keep the work flowing”&lt;/strong&gt; Manage and optimize product development flow to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;efficiency-speed-cost&quot;&gt;Efficiency, speed, cost&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“We need to code faster”&lt;/strong&gt; Cost is in the length of an activity. Optimize each separate activity to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“We need to work smarter”&lt;/strong&gt; Cost is in the inefficient flow. Optimize the flow and remove waste to get faster.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quality&quot;&gt;Quality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Inspect quality when done”&lt;/strong&gt; Use external measures to inspect quality. Fix possible problems at the end.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Build quality in”&lt;/strong&gt; Prevent defects from happening. Add quality within the work. Stop the line when process is broken.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;learning-improvement&quot;&gt;Learning, improvement&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Improve through company wide standardization and best practices.”&lt;/strong&gt; Separate improvement projects. Work is driven by processes and practices.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Improve  through experimentation within the work.”&lt;/strong&gt; Learning and improving build in to the work. Follow principles agreed within the team.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;process-ownership&quot;&gt;Process Ownership&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Company owns the process. Use audits and standards.”&lt;/strong&gt; Single loop learning: “Are we doing this right”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Autonomy and ownership of the work is within the team.”&lt;/strong&gt; Team owns and improves its working process. Double loop learning: Why are we doing this?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;learning-improvement-1&quot;&gt;Learning, improvement&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Analyse project success in the end or in the phase-gates.”&lt;/strong&gt; Late learning. Lessons-learned studies / post-mortems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Aim for fast feedback cycle.”&lt;/strong&gt; Get feedback after every iteration / all the time (hourly, daily, weekly)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;decision-making-1&quot;&gt;Decision making&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Centralized decision making outside the team&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Those who do the actual work make decisions&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;value-benefits&quot;&gt;Value, benefits&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Analyse value”&lt;/strong&gt; Analyse value based on planning phase studies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Measure value”&lt;/strong&gt; Analyse and measure value early based on actual data from production use.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;risk-management&quot;&gt;Risk management&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Manage deliverable and process quality”&lt;/strong&gt; Milestone plans and phase-gates, proceed when certain criteria is met. Fail at the end (usually), impact and cost is high.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“Reduce risk everyday”&lt;/strong&gt; Build high risk and high value items first. Mitigate risks by doing the risky work right away. Fail fast, impact and cost of failure is low.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 12 Mar 2017 00:00:00 +0200</pubDate>
+        <link>/opposite-ideas-software</link>
+        <guid isPermaLink="true">/opposite-ideas-software</guid>
+        
+        
+        <category>software</category>
         
       </item>
     
@@ -124,75 +776,6 @@
         
         
         <category>teams</category>
-=======
-    <pubDate>Mon, 12 Jun 2017 22:10:31 +0300</pubDate>
-    <lastBuildDate>Mon, 12 Jun 2017 22:10:31 +0300</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
-    
-      <item>
-        <title>Beware of Ticketization!</title>
-        <description>&lt;p&gt;&lt;strong&gt;My advice is to use as little ticket tools in software development as possible. They certainly have their benefits but overusing them usually reflects bad ways of working. Instead of fixing your ticket tool, aim to use it as little as possible.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;There is a term for a phenomenon how medicines have conquered almost all aspects of our lives:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Medicalisation  is the process by which human conditions and problems come to be defined and treated as medical conditions, and thus become the subject of medical study, diagnosis, prevention, or treatment. (Source: Wikipedia)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It is not simply good or bad, but a definitely something complex and ubiquitous.&lt;/p&gt;
-
-&lt;p&gt;I see a similar thing to happen in organizations. I call it ticketization (or issueization for all JIRA users out there). My quick definition:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ticketization is the process by which all problems come to be defined as a set of simple tickets, issues or tasks. All problems, goals and endeavours become the subject or creating, assigning and tracking tickets.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tickets/issues/tasks/stories - whatever you choose to call them - are everywhere. If you don’t believe me, good luck on trying to get your IT support to do something without a ticket or issue on their system.&lt;/p&gt;
-
-&lt;p&gt;And it’s the same as with all things in life. When things go too far, bad things can happen.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;“My issues and your issues”&lt;/em&gt;: Everyone is completing their own tickets only.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“That is someone else’s issue”&lt;/em&gt;: Tickets represent roles and division of work in unhealthy way.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“Requirements Manager created issues for the team”&lt;/em&gt;: Separation of thinking and doing.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“I assigned this issue for you”&lt;/em&gt;: Over using ticketing tool as management system.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;But things can go even more wrong.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;“Doing what is told”&lt;/em&gt;: No adaptability over tickets&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“We must complete these issues”&lt;/em&gt;: No working on the whole. Focus on issue level. Completing issues becomes the goal.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“The more tickets the better”&lt;/em&gt;: Tickets as a metric of productivity.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“Let’s improve JIRA statuses and transitions”&lt;/em&gt;: Focusing on ticket process/flows instead of improving the actual product development flow.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“We all must use this ticket workflow”&lt;/em&gt;: Codified or predefined common workflows instead of team owning it’s process.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“Didn’t you see my comment in the ticket system?”&lt;/em&gt;: Discussing over tickets only.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“According to our ticket SLA metrics, your service is working just fine”&lt;/em&gt;: Managing the service over tickets (SLAs over created value).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So, what to do about this?&lt;/p&gt;
-
-&lt;p&gt;I am not saying that you should stop using all ticket tools. That would be silly. Tools can be very helpful but they also shape how we work and think. They can also become barriers on improving the work.&lt;/p&gt;
-
-&lt;p&gt;My view is that when you need to rely very little on ticketing systems, you are probably doing fine.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;You probably update what was discussed face to face to the ticketing system. Your communications are richer and faster.&lt;/li&gt;
-  &lt;li&gt;You are working with actual goals and have the needed adaptability, not just set of tickets.&lt;/li&gt;
-  &lt;li&gt;Team members are pulling work (creating and assigning tickets to themselves), when needed.&lt;/li&gt;
-  &lt;li&gt;You have simple ticketing workflow that represent elegant and reliable workflow in the actual work (e.g. Git workflow)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;When you have these sort of things in good condition your supporting tool works mostly ok. In other words, the better the work works for you, the less you get frustrated with your tools. So, don’t let your ticketing tool to become your master.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 +0200</pubDate>
-        <link>/beware-of-ticketization</link>
-        <guid isPermaLink="true">/beware-of-ticketization</guid>
-        
-        
-        <category>leadership</category>
->>>>>>> More blogs!
         
       </item>
     
