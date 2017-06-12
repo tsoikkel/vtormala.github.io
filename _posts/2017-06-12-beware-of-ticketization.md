@@ -55,5 +55,7 @@ My view is that when you need to rely very little on ticketing systems, you are 
 * Team members are creating and assigning tickets by themselves, when needed.
 * You have simple ticketing workflow that represent elegant and reliable workflow in the actual work (e.g. Git workflow)
 
-When you have these sort of things in good condition your supporting tool works mostly ok. In other words, the better the work works for you, the less you get frustrated with your tools. So, don't let your ticketing tool to become your master.
+When you have these sort of things in good condition your supporting tool works mostly ok. In other words, the better the work works for you, the less you get frustrated with your tools. 
+
+In summary, don't let your ticketing tool to become your master.
 
